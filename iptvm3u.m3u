@@ -1,12 +1,99 @@
-http://iptvdream1.homedns.org:25461/get.php?username=kodisolutions&password=test321&type=m3u
-http://zaptuga.dynu.com:12500/get.php?username=mmcjwqokdl&password=ndkwichwlc&type=m3u
-http://93.118.32.94:8000/get.php?username=1411-www.ipmagtv.com&password=ifzuEjSt04&type=m3u
-http://bizimip.com:8000/get.php?username=arslantahir1988&password=vcrYB7CjLD&type=m3u
-http://universeiptv.com:8000/get.php?username=polly1&password=polly2&type=m3u
-http://144.217.69.93:25461/get.php?username=acc1&password=1234&type=m3u
-http://gr.ipmdmv.com:8000/get.php?username=arap&password=para&type=m3u
-http://ip.sltv.be:8000/get.php?username=zO409sa90z&password=qNmhrVS5kn&type=m3u
-http://ceso.wezzy.pro:8888/get.php?username=moviesinema&password=Y6EDObat2k&type=m3u
-http://tv2ip.nl:80/get.php?username=hind&password=hind&type=m3u
-http://207.180.233.49:5001/get.php?username=Errol&password=Errol&type=m3u
-http://vmdirect.co.uk:5001/get.php?username=Errol&password=Errol&type=m3u
+#EXTM3U
+EXTINF:-1,UK:5 USA
+http://144.76.199.197:8080/live/kutlu/kutlu/32640.ts
+EXTINF:-1,UK:ALIBI
+http://144.76.199.197:8080/live/kutlu/kutlu/32639.ts
+EXTINF:-1,UK:ANIMAL PLANET
+http://144.76.199.197:8080/live/kutlu/kutlu/32638.ts
+EXTINF:-1,UK:BBC 1 HD
+http://144.76.199.197:8080/live/kutlu/kutlu/32637.ts
+EXTINF:-1,UK:BBC 2 HD
+http://144.76.199.197:8080/live/kutlu/kutlu/32636.ts
+EXTINF:-1,UK:BBC 3 HD
+http://144.76.199.197:8080/live/kutlu/kutlu/32635.ts
+EXTINF:-1,UK:BBC 4 HD
+http://144.76.199.197:8080/live/kutlu/kutlu/32634.ts
+EXTINF:-1,UK:BBC News
+http://144.76.199.197:8080/live/kutlu/kutlu/32633.ts
+EXTINF:-1,UK:BLOOMBERG
+http://144.76.199.197:8080/live/kutlu/kutlu/32632.ts
+EXTINF:-1,UK:CBBC
+http://144.76.199.197:8080/live/kutlu/kutlu/32626.ts
+EXTINF:-1,UK:CBS ACTION HD
+http://144.76.199.197:8080/live/kutlu/kutlu/32625.ts
+EXTINF:-1,UK:CBS DRAMA HD
+http://144.76.199.197:8080/live/kutlu/kutlu/32624.ts
+EXTINF:-1,UK:CBS REALITY HD
+http://144.76.199.197:8080/live/kutlu/kutlu/32623.ts
+EXTINF:-1,UK:CHANNEL 4
+http://144.76.199.197:8080/live/kutlu/kutlu/32622.ts
+EXTINF:-1,UK:CHANNEL 5
+http://144.76.199.197:8080/live/kutlu/kutlu/32621.ts
+EXTINF:-1,UK:COMEDY CENTRAL
+http://144.76.199.197:8080/live/kutlu/kutlu/32620.ts
+EXTINF:-1,UK:CRIME & INVERSTIGATION
+http://144.76.199.197:8080/live/kutlu/kutlu/32619.ts
+EXTINF:-1,UK:DAVE
+http://144.76.199.197:8080/live/kutlu/kutlu/32618.ts
+EXTINF:-1,UK:DISCOVERY
+http://144.76.199.197:8080/live/kutlu/kutlu/32617.ts
+EXTINF:-1,UK:DISCOVERY HISTORY
+http://144.76.199.197:8080/live/kutlu/kutlu/32616.ts
+EXTINF:-1,UK:DISCOVERY SCIENCE
+http://144.76.199.197:8080/live/kutlu/kutlu/32615.ts
+EXTINF:-1,UK:DISCOVERY TURBO
+http://144.76.199.197:8080/live/kutlu/kutlu/32614.ts
+EXTINF:-1,UK:DISNEY XD HD
+http://144.76.199.197:8080/live/kutlu/kutlu/32613.ts
+EXTINF:-1,UK:E!
+http://144.76.199.197:8080/live/kutlu/kutlu/32612.ts
+EXTINF:-1,UK:E4
+http://144.76.199.197:8080/live/kutlu/kutlu/32611.ts
+EXTINF:-1,UK:EURONEWS
+http://144.76.199.197:8080/live/kutlu/kutlu/32610.ts
+EXTINF:-1,UK:FILM 4
+http://144.76.199.197:8080/live/kutlu/kutlu/32609.ts
+EXTINF:-1,UK:FOOD NETWORK
+http://144.76.199.197:8080/live/kutlu/kutlu/32608.ts
+EXTINF:-1,UK:FOX NEWS
+http://144.76.199.197:8080/live/kutlu/kutlu/32607.ts
+EXTINF:-1,UK:HISTORY HD
+http://144.76.199.197:8080/live/kutlu/kutlu/32606.ts
+EXTINF:-1,UK:HOME&HEALTH
+http://144.76.199.197:8080/live/kutlu/kutlu/32605.ts
+EXTINF:-1,UK:INVESTIGATION DISCOVERY
+http://144.76.199.197:8080/live/kutlu/kutlu/32604.ts
+EXTINF:-1,UK:ITV 1 HD
+http://144.76.199.197:8080/live/kutlu/kutlu/32603.ts
+EXTINF:-1,UK:ITV 2 HD
+http://144.76.199.197:8080/live/kutlu/kutlu/32602.ts
+EXTINF:-1,UK:ITV 3 HD
+http://144.76.199.197:8080/live/kutlu/kutlu/32601.ts
+EXTINF:-1,UK:ITV 4
+http://144.76.199.197:8080/live/kutlu/kutlu/32600.ts
+EXTINF:-1,UK:ITV BE HD
+http://144.76.199.197:8080/live/kutlu/kutlu/32599.ts
+EXTINF:-1,UK:LONDON LIVE
+http://144.76.199.197:8080/live/kutlu/kutlu/32598.ts
+EXTINF:-1,UK:MORE 4
+http://144.76.199.197:8080/live/kutlu/kutlu/32597.ts
+EXTINF:-1,UK:NAT GEO WILD
+http://144.76.199.197:8080/live/kutlu/kutlu/32592.ts
+EXTINF:-1,UK:NAT GEOGRAPHIC
+http://144.76.199.197:8080/live/kutlu/kutlu/32591.ts
+EXTINF:-1,UK:NICKELODEON HD
+http://144.76.199.197:8080/live/kutlu/kutlu/32590.ts
+EXTINF:-1,UK:QUEST
+http://144.76.199.197:8080/live/kutlu/kutlu/32589.ts
+EXTINF:-1,UK:RTE ONE
+http://144.76.199.197:8080/live/kutlu/kutlu/32588.ts
+EXTINF:-1,UK:RTE TWO
+http://144.76.199.197:8080/live/kutlu/kutlu/32587.ts
+EXTINF:-1,UK:TLC
+http://144.76.199.197:8080/live/kutlu/kutlu/32575.ts
+EXTINF:-1,UK:TRAVEL CHANNEL
+http://144.76.199.197:8080/live/kutlu/kutlu/32574.ts
+EXTINF:-1,UK:UNIVERSAL
+http://144.76.199.197:8080/live/kutlu/kutlu/32573.ts
+EXTINF:-1,UK:UTV
+http://144.76.199.197:8080/live/kutlu/kutlu/32572.ts
